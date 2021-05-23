@@ -51,6 +51,7 @@ jobs:
             libpng-dev:i386 \
             libfreetype-dev:i386 \
             libfontconfig1-dev:i386 \
+            libsdl2-2.0-0 \
             libsdl2-dev:i386 \
       - name: Build
         run: |
